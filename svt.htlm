@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>SVT - Brevet</title>
+
+<style>
+body {font-family: Arial; background:#f4f6f8;}
+section {background:white; margin:20px; padding:20px; border-radius:10px;}
+h1 {text-align:center;}
+h2 {color:#2c3e50;}
+h3 {color:#2980b9;}
+a {color:blue;}
+</style>
+
+</head>
+
+<body>
+
+<h1>🧬 SVT - Révisions Brevet</h1>
+
+<!-- ================= TERRE ================= -->
+<section>
+<h2>🌍 La planète Terre, l’environnement et l’action humaine</h2>
+
+<h3>📌 Fiche 1 : Dynamique de la Terre et risques</h3>
+
+<p>
+La Terre est une planète active dont la surface est en constante évolution. Elle est composée de plaques tectoniques qui se déplacent lentement sur le manteau. Ces mouvements provoquent des phénomènes naturels comme les séismes, les éruptions volcaniques et la formation des montagnes. Les zones où les plaques se rencontrent sont appelées zones à risques. Les populations vivant dans ces régions doivent être protégées grâce à des systèmes de prévention et d’alerte. L’activité humaine peut aussi influencer ces risques en modifiant les paysages et les constructions.
+</p>
+
+<p>
+🎥 <a href="https://www.youtube.com/results?search_query=plaques+tectoniques+3eme" target="_blank">Voir vidéo</a>
+</p>
+
+<hr>
+
+<h3>📌 Fiche 2 : Météorologie et climat</h3>
+
+<p>
+La météorologie étudie le temps qu’il fait à court terme, tandis que le climat correspond aux conditions moyennes sur une longue période. Le climat dépend de nombreux facteurs comme la latitude, l’altitude ou la proximité de la mer. Aujourd’hui, les scientifiques observent un réchauffement climatique lié aux activités humaines, notamment l’émission de gaz à effet de serre comme le CO₂. Ce phénomène entraîne la fonte des glaciers, la montée du niveau des mers et des événements climatiques extrêmes de plus en plus fréquents.
+</p>
+
+<p>
+🎥 <a href="https://www.youtube.com/results?search_query=changement+climatique+3eme" target="_blank">Voir vidéo</a>
+</p>
+
+<hr>
+
+<h3>📌 Fiche 3 : Ressources naturelles</h3>
+
+<p>
+Les ressources naturelles sont des éléments que l’homme prélève dans son environnement pour vivre et produire de l’énergie. On distingue les ressources renouvelables comme le soleil, le vent ou l’eau, et les ressources non renouvelables comme le pétrole ou le charbon. L’exploitation excessive de ces ressources pose des problèmes environnementaux importants, comme la pollution ou l’épuisement des réserves. Il est donc nécessaire de développer des solutions durables comme les énergies renouvelables pour préserver la planète.
+</p>
+
+</section>
+
+<!-- ================= VIVANT ================= -->
+<section>
+<h2>🧬 Le vivant et son évolution</h2>
+
+<h3>📌 Fiche 1 : Nutrition des plantes</h3>
+
+<p>
+Les plantes ont besoin de lumière, d’eau et de sels minéraux pour produire leur propre matière organique grâce à la photosynthèse. Ce processus se déroule dans les feuilles, grâce à la chlorophylle. Les plantes absorbent le dioxyde de carbone et rejettent de l’oxygène. Elles sont donc essentielles à la vie sur Terre car elles produisent la matière organique et participent à l’équilibre de l’atmosphère. Les racines permettent d’absorber l’eau et les nutriments présents dans le sol.
+</p>
+
+<p>
+🎥 <a href="https://www.youtube.com/results?search_query=photosynthese+3eme" target="_blank">Voir vidéo</a>
+</p>
+
+<hr>
+
+<h3>📌 Fiche 2 : Évolution du vivant</h3>
+
+<p>
+Toutes les espèces vivantes ont évolué au cours du temps à partir d’ancêtres communs. Cette évolution est expliquée par la sélection naturelle : les individus les mieux adaptés à leur environnement survivent et se reproduisent davantage. Cela entraîne des modifications progressives des espèces. Les fossiles permettent de retracer l’histoire de la vie sur Terre et montrent que certaines espèces ont disparu tandis que d’autres ont évolué.
+</p>
+
+<p>
+🎥 <a href="https://www.youtube.com/results?search_query=evolution+des+especes+3eme" target="_blank">Voir vidéo</a>
+</p>
+
+</section>
+
+<!-- ================= CORPS HUMAIN ================= -->
+<section>
+<h2>🧠 Le corps humain et la santé</h2>
+
+<h3>📌 Fiche 1 : Effort physique</h3>
+
+<p>
+Lors d’un effort physique, le corps humain consomme plus d’oxygène et produit plus de dioxyde de carbone. Le rythme cardiaque et la respiration augmentent pour répondre aux besoins des muscles. Les muscles transforment l’énergie chimique en énergie mécanique. Un entraînement régulier améliore les performances du corps et permet une meilleure endurance.
+</p>
+
+<p>
+🎥 <a href="https://www.youtube.com/results?search_query=effort+physique+3eme+svt" target="_blank">Voir vidéo</a>
+</p>
+
+<hr>
+
+<h3>📌 Fiche 2 : Défenses de l’organisme</h3>
+
+<p>
+Le corps humain possède des mécanismes de défense contre les microbes. Les barrières naturelles comme la peau empêchent leur entrée. En cas d’infection, le système immunitaire réagit en produisant des globules blancs qui détruisent les agents pathogènes. Les vaccins permettent d’entraîner le système immunitaire à reconnaître un microbe sans tomber malade.
+</p>
+
+</section>
+
+</body>
+</html>
