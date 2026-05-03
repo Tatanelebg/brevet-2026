@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Physique-Chimie - Brevet</title>
+
+<style>
+body {font-family: Arial; background:#f4f6f8;}
+section {background:white; margin:20px; padding:20px; border-radius:10px;}
+h1 {text-align:center;}
+h2 {color:#2c3e50;}
+h3 {color:#2980b9;}
+a {color:blue;}
+</style>
+
+</head>
+
+<body>
+
+<h1>⚡ Physique-Chimie - Révisions Brevet</h1>
+
+<!-- ================= MATIERE ================= -->
+<section>
+<h2>🧪 Organisation et transformations de la matière</h2>
+
+<h3>📌 Fiche 1 : États de la matière</h3>
+
+<p>
+La matière existe sous trois états principaux : solide, liquide et gaz. Un solide a une forme propre et un volume fixe. Un liquide a un volume fixe mais prend la forme du récipient. Un gaz n’a ni forme ni volume propre et occupe tout l’espace disponible. Les changements d’état (fusion, solidification, vaporisation, condensation) se produisent lorsqu’on chauffe ou refroidit une substance. Ces transformations ne changent pas la nature chimique de la matière, seulement son état physique.
+</p>
+
+<p>
+🎥 <a href="https://www.youtube.com/results?search_query=etats+de+la+matiere+3eme" target="_blank">Voir vidéo</a>
+</p>
+
+<hr>
+
+<h3>📌 Fiche 2 : Structure de la matière</h3>
+
+<p>
+La matière est constituée d’atomes et de molécules. Les atomes sont les plus petites particules qui composent tout ce qui nous entoure. Les molécules sont des assemblages d’atomes liés entre eux. Dans un solide, les particules sont très proches et ordonnées. Dans un liquide, elles sont proches mais désordonnées. Dans un gaz, elles sont très éloignées et en mouvement rapide. Cette organisation explique les propriétés des différents états de la matière.
+</p>
+
+<hr>
+
+<h3>📌 Fiche 3 : Transformations chimiques</h3>
+
+<p>
+Une transformation chimique est une réaction où des substances disparaissent pour en former de nouvelles. Les substances initiales sont appelées réactifs et les nouvelles substances sont les produits. Par exemple, la combustion du carbone produit du dioxyde de carbone. Lors d’une réaction chimique, la masse se conserve : ce qui disparaît d’un côté réapparaît de l’autre. Ces transformations sont essentielles dans la vie quotidienne comme la respiration ou la cuisson des aliments.
+</p>
+
+<hr>
+
+<h3>📌 Fiche 4 : Acide et base</h3>
+
+<p>
+Une solution acide a un pH inférieur à 7, une solution basique a un pH supérieur à 7, et une solution neutre a un pH égal à 7. Le pH permet de mesurer l’acidité d’une solution. On peut le mesurer avec du papier pH ou un pH-mètre. Certaines réactions chimiques permettent de neutraliser un acide avec une base. Par exemple, le vinaigre (acide) réagit avec le bicarbonate (base) en produisant du dioxyde de carbone.
+</p>
+
+</section>
+
+<!-- ================= MOUVEMENTS ================= -->
+<section>
+<h2>🏃 Mouvements et interactions</h2>
+
+<h3>📌 Fiche 1 : Mouvement et vitesse</h3>
+
+<p>
+Un objet est en mouvement lorsqu’il change de position au cours du temps par rapport à un référentiel. La vitesse permet de mesurer la rapidité d’un mouvement. Elle se calcule avec la formule : vitesse = distance / temps. On peut avoir un mouvement uniforme (vitesse constante) ou un mouvement accéléré/décéléré. Le choix du référentiel est important car un même objet peut être immobile ou en mouvement selon le point de vue.
+</p>
+
+<p>
+🎥 <a href="https://www.youtube.com/results?search_query=mouvement+vitesse+3eme" target="_blank">Voir vidéo</a>
+</p>
+
+<hr>
+
+<h3>📌 Fiche 2 : Forces</h3>
+
+<p>
+Une force est une action capable de modifier le mouvement d’un objet ou de le déformer. Elle est représentée par une flèche appelée vecteur force. On distingue les forces de contact (comme pousser ou tirer) et les forces à distance (comme la gravité). Le poids est une force exercée par la Terre sur les objets. Plus la masse est grande, plus le poids est important. La relation est : poids = masse × gravité.
+</p>
+
+</section>
+
+<!-- ================= ENERGIE ================= -->
+<section>
+<h2>🔌 Énergie et circuits électriques</h2>
+
+<h3>📌 Fiche 1 : Formes d’énergie</h3>
+
+<p>
+L’énergie existe sous différentes formes : électrique, thermique, chimique, mécanique ou lumineuse. Elle peut être transformée mais jamais détruite. Par exemple, une lampe transforme l’énergie électrique en énergie lumineuse et thermique. Dans la vie quotidienne, l’énergie est utilisée pour faire fonctionner les appareils électriques, les transports ou encore le chauffage.
+</p>
+
+<hr>
+
+<h3>📌 Fiche 2 : Circuits électriques</h3>
+
+<p>
+Un circuit électrique est composé d’un générateur (pile), de récepteurs (lampes, moteurs) et de fils conducteurs. Il existe deux types de circuits : en série et en dérivation. En série, les composants sont alignés, et si un élément tombe en panne, tout s’arrête. En dérivation, chaque composant fonctionne indépendamment. Le courant électrique circule uniquement si le circuit est fermé.
+</p>
+
+<hr>
+
+<h3>📌 Fiche 3 : Loi d’Ohm</h3>
+
+<p>
+La loi d’Ohm relie la tension, l’intensité et la résistance dans un circuit électrique. Elle s’écrit : U = R × I. Cela signifie que la tension est égale à la résistance multipliée par l’intensité. Cette relation permet de comprendre le fonctionnement des appareils électriques et de calculer les valeurs inconnues dans un circuit.
+</p>
+
+</section>
+
+<!-- ================= SIGNALS ================= -->
+<section>
+<h2>📡 Signaux pour observer et communiquer</h2>
+
+<h3>📌 Fiche 1 : Signaux lumineux</h3>
+
+<p>
+Les signaux lumineux permettent de transmettre des informations à distance grâce à la lumière. Par exemple, les phares, les lasers ou les feux de signalisation. La lumière se déplace très rapidement dans le vide, à environ 300 000 km/s. Elle peut être réfléchie, absorbée ou traverser certains matériaux transparents. Les ombres et les éclipses sont des exemples de propagation de la lumière.
+</p>
+
+<hr>
+
+<h3>📌 Fiche 2 : Signaux sonores</h3>
+
+<p>
+Le son est une vibration qui se propage dans un milieu matériel comme l’air, l’eau ou les solides. Il ne peut pas se propager dans le vide. La vitesse du son dépend du milieu dans lequel il se déplace. Par exemple, le son est plus rapide dans l’eau que dans l’air. Les sons peuvent être graves ou aigus selon leur fréquence.
+</p>
+
+<p>
+🎥 <a href="https://www.youtube.com/results?search_query=son+et+lumiere+3eme+physique" target="_blank">Voir vidéo</a>
+</p>
+
+</section>
+
+</body>
+</html>
